@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670423217 source:c:\users\ma france\desktop\Новая папка (3)\КЭ-107\pinpadmastersession\main.cpp
+	<iostream>
+	<windows.h>
+
